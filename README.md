@@ -1,1 +1,2 @@
 # una-ihcux-lista03
+A 1 heuristica foi aplicada nesse projeto de forma que o usuário ficasse ' por dentro ' do processo do "deep scan", sendo informado sobre os tipos de processos que estavam ocorrendo, como a memoria sendo lida, verificando cpu e etc. Além de passar uma tranquilidade a mais ja que foi informado até mesmo o tempo necessário para concluir o processamento do "deep scan". E por fim dando um feedback direto do resultado daquele processo.
